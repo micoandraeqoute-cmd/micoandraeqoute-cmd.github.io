@@ -1,0 +1,12 @@
+{
+  "client_id": "https://micoandraequote-cmd.github.io/.well-known/oauth-client-metadata.json",
+  "application_type": "web",
+  "client_name": "Mico Bluesky Test App",
+  "client_uri": "https://micoandraequote-cmd.github.io",
+  "dpop_bound_access_tokens": true,
+  "grant_types": ["authorization_code", "refresh_token"],
+  "redirect_uris": ["https://oauth.pstmn.io/v1/callback"],
+  "response_types": ["code"],
+  "scope": "atproto transition:generic",
+  "token_endpoint_auth_method": "none"
+}
